@@ -31,4 +31,4 @@ def plot_confusion_matrix(y_true1, y_pred1):
     plt.title('Confusion Matrix')
     plt.show()
 
-plot_confusion_matrix(y_true,y_pred)
+plot_confusion_matrix(y_true2,y_pred2)
